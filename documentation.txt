@@ -1,0 +1,65 @@
+DOCUMENTATION
+TOPIC-MOVIE DATABASE SYSTEM
+NAME-SANYAM JAIN
+ER.NO.-161B196
+BATCH-B-7
+
+FIRST-a splash screen that appears for 5 seconds in which details of the creator 
+will be shown. 
+
+SECOND-the main screen appears in which different types of buttons are available for 
+different functions.
+
+BUTTON1-NAME OF MOVIES-this button provides the list of all movies which is inserted in the
+database to be searched in the main screen by the search button.
+
+	BUTTON2-MORE MOVIES-this button is used to get the list of remaining movies which is 
+        inserted in the database for the searching purpose.
+
+In the Entry Box,enter the movie name (Case sensitive) which you want to be searched.
+
+BUTTON3-SEARCH-this button is used to acquire the details of the particular movie which is 
+searched by the user.After clicking on this button,a new GUI will open which will show the 
+details of the movie searched by the user.
+
+BUTTON4-ABOUT US-this button is used to acquire the information about the movie database 
+system.
+
+BUTTON5-HORROR-this button is used to open the list of horror movies which is inserted in 
+a database for the searching purpose.
+
+BUTTON6-COMEDY-this button is used to open the list of comedy movies which is inserted in 
+a database for the searching purpose.
+
+BUTTON7-THRILLER-this button is used to open the list of thriller movies which is inserted in 
+a database for the searching purpose. 
+
+BUTTON8-ACTION-this button is used to open the list of action movies which is inserted in 
+a database for the searching purpose.
+
+BUTTON9-DRAMA-this button is used to open the list of drama movies which is inserted in 
+a database for the searching purpose.
+
+BUTTON10-HISTORY-this button is used to open the list of history movies which is inserted in 
+a database for the searching purpose.
+
+BUTTON11-ADVENTURE-this button is used to open the list of adventure movies which is inserted in 
+a database for the searching purpose.
+
+BUTTON12-CRIME-this button is used to open the list of crime movies which is inserted in 
+a database for the searching purpose.
+
+BUTTON13-MYSTERY-this button is used to open the list of mystery movies which is inserted in 
+a database for the searching purpose.
+
+BUTTON14-SCI-FI-this button is used to open the list of sci-fi movies which is inserted in 
+a database for the searching purpose.
+
+BUTTON15-BACK-this button is used go on the previous screen/window.
+
+BUTTON16-EXIT-this button is used to stop and exit from the main screen window.
+
+
+
+
+                     
